@@ -15,7 +15,7 @@ import {BrowserRouter as Router, Link, Route, Switch} from "react-router-dom";
 import Toolbar from "@material-ui/core/Toolbar";
 import MenuIcon from '@material-ui/icons/Menu';
 import {makeStyles} from "@material-ui/core/styles";
-import LandlordForm from "./LandlordForm";
+import LandlordForm from "./landlord/LandlordForm";
 import DateFnsUtils from '@date-io/date-fns';
 import {MuiPickersUtilsProvider} from "@material-ui/pickers";
 import esLocale from "date-fns/locale/es";

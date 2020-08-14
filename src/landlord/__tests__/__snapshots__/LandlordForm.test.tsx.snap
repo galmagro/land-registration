@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should compile correctly 1`] = `
+<div
+  className="Grid"
+>
+  <div
+    className="Grid"
+  >
+    <div
+      className="Breadcrumbs"
+    >
+      <a
+        className="Link"
+        href="#"
+      >
+        landlords
+      </a>
+      <span
+        className="Typography"
+      >
+        new_landlord
+      </span>
+    </div>
+  </div>
+  <div
+    className="Grid"
+  >
+    <span
+      className="Typography"
+    >
+      new_landlord
+    </span>
+  </div>
+  <div
+    className="Grid"
+  >
+    <div
+      className="Grid"
+    >
+      <div
+        className="Grid"
+      >
+        <form>
+          <div
+            className="Paper"
+          >
+            <span
+              className="Typography"
+            >
+              landlord_id_title
+            </span>
+            <input
+              className="TextField"
+              id="first_name"
+              type="text"
+            />
+            <input
+              className="TextField"
+              id="last_name"
+              type="text"
+            />
+            <input
+              className="KeyboardDatePicker"
+              id="dob"
+              type="date"
+            />
+            <input
+              className="TextField"
+              id="landlord_id"
+              type="text"
+            />
+            <input
+              className="TextField"
+              id="reference"
+              type="text"
+            />
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+  <div
+    className="Grid"
+  />
+</div>
+`;
